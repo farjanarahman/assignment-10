@@ -1,0 +1,432 @@
+[
+    {
+        "id": 1,
+        "chefName": "Sanjeev Kapoor",
+        "img": "https://global-uploads.webflow.com/61154a627733993096a9a3af/618ae06883ad82a13f292916_dl.png",
+        "bio": "A famous Indian chef known for his TV show 'Khana Khazana'",
+        "experience": 30,
+        "like": 1000,
+        "number":20,
+        "recipe": [
+          {
+            "name": "Chicken Tikka Masala",
+            "ingredients": [
+              "1 lb boneless chicken, cut into bite-sized pieces",
+              "1 cup plain yogurt",
+              "1 tbsp ginger paste",
+              "1 tbsp garlic paste",
+              "2 tsp cumin powder",
+              "2 tsp coriander powder",
+              "1 tsp turmeric powder",
+              "1/2 tsp red chili powder",
+              "1/2 tsp garam masala",
+              "1/4 cup cream",
+              "2 tbsp oil",
+              "Salt to taste"
+            ],
+            "steps": [
+              "Mix together the yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
+              "Add the chicken pieces and marinate for at least 2 hours, preferably overnight.",
+              "Preheat the oven to 400°F.",
+              "Thread the chicken pieces onto skewers and brush with oil.",
+              "Place the skewers on a baking sheet and bake for 15-20 minutes, or until cooked through.",
+              "In a separate pan, heat the cream and garam masala.",
+              "Add the cooked chicken pieces to the pan and stir until well coated with the sauce.",
+              "Serve hot."
+            ],
+            "rating": 4.5
+          },
+          {
+            "name": "Butter Naan",
+            "ingredients": [
+              "2 cups all-purpose flour",
+              "1/2 tsp salt",
+              "1/2 tsp baking powder",
+              "1/2 tsp baking soda",
+              "1/4 cup yogurt",
+              "1/2 cup milk",
+              "2 tbsp melted butter",
+              "2 tbsp chopped coriander leaves"
+            ],
+            "steps": [
+              "In a bowl, mix together the flour, salt, baking powder, and baking soda.",
+              "Add the yogurt, milk, melted butter, and coriander leaves.",
+              "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+              "Cover the dough and let it rest for 30 minutes.",
+              "Preheat the oven to 500°F.",
+              "Divide the dough into small balls and roll them out into thin circles.",
+              "Place the circles on a baking sheet and bake for 5-7 minutes, or until lightly browned.",
+              "Brush the naan with melted butter before serving."
+            ],
+            "rating": 4.7
+          },
+          {
+            "name": "Paneer Makhani",
+            "ingredients": ["Paneer", "Tomato", "Butter", "Cream", "Onion", "Ginger", "Garlic", "Green Chili", "Kasuri Methi", "Turmeric Powder", "Red Chili Powder", "Coriander Powder", "Garam Masala", "Salt"],
+            "steps": [
+                "Heat butter in a pan and add chopped onion, ginger, garlic, and green chili. Sauté until onion turns golden brown.",
+                "Add chopped tomatoes and cook until they turn soft and mushy.",
+                "Add turmeric powder, red chili powder, coriander powder, and garam masala. Mix well.",
+                "Add kasuri methi and salt. Mix well.",
+                "Add paneer cubes and cook for 2-3 minutes.",
+                "Add cream and mix well. Cook for another 2-3 minutes.",
+                "Garnish with chopped coriander leaves and serve hot with naan or rice."
+            ],
+            "rating": 4.8
+        }
+        
+            ]
+    },
+
+    {
+        "id": 2,
+        "chefName": "Tarla Dalal",
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqPmebXxZ0oezruh5kDI3iDR8o2PQKAYOff5lFTdabI=s900-c-k-c0x00ffffff-no-rj",
+        "bio": "Tarla Dalal was an Indian food writer, chef, and television host. She was one of India's best-selling cookbook authors and was known for her easy-to-follow recipes.",
+        "experience": 50,
+        "like": 800,
+        "number": 50,
+        "recipe": [
+            {
+                "name": "Palak Paneer",
+                "ingredients": ["Spinach", "Paneer", "Onion", "Tomato", "Ginger", "Garlic"],
+                "steps": [
+                    "Blanch spinach in hot water for 2-3 minutes and immediately drain.",
+                    "Blend the blanched spinach, green chili, and ginger to a smooth paste.",
+                    "Heat oil in a pan and add cumin seeds.",
+                    "Add onion and sauté until translucent.",
+                    "Add chopped tomato and sauté until it turns mushy.",
+                    "Add the spinach paste and mix well.",
+                    "Add garam masala and salt.",
+                    "Add paneer cubes and cook for 2-3 minutes.",
+                    "Palak paneer is ready to serve."
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Butter Chicken",
+                "ingredients": ["Chicken", "Tomato", "Butter", "Cream", "Kasuri Methi", "Ginger", "Garlic"],
+                "steps": [
+                    "Marinate the chicken in curd, ginger-garlic paste, and some spices for 2 hours.",
+                    "Grill the chicken in the oven for 10-12 minutes or until cooked through.",
+                    "Heat butter in a pan and add ginger-garlic paste.",
+                    "Add tomato puree and cook for 5-7 minutes.",
+                    "Add kasuri methi, red chili powder, and salt.",
+                    "Add cream and mix well.",
+                    "Add grilled chicken and cook for 2-3 minutes.",
+                    "Butter chicken is ready to serve."
+                ],
+                "rating": 4.9
+            },
+            {
+                "name": "Chana Masala",
+                "ingredients": ["Chickpeas", "Onion", "Tomato", "Ginger", "Garlic", "Cumin", "Coriander", "Garam Masala"],
+                "steps": [
+                    "Soak chickpeas overnight and pressure cook until soft.",
+                    "Heat oil in a pan and add cumin seeds.",
+                    "Add onion and sauté until translucent.",
+                    "Add ginger-garlic paste and sauté for a minute.",
+                    "Add chopped tomato and cook until it turns mushy.",
+                    "Add cumin powder, coriander powder, garam masala, and salt.",
+                    "Add cooked chickpeas and mix well.",
+                    "Add water and let it simmer for 10-15 minutes.",
+                    "Chana masala is ready to serve."
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefName": "Vikas Khanna",
+        "img": "https://emirateswoman.com/wp-content/uploads/2015/05/EW-Vikas-Khanna-K.jpg",
+        "bio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the judge of MasterChef India.",
+        "experience": 25,
+        "like": 800,
+        "number": 30,
+        "recipe": [
+            {
+                "name": "Butter Chicken",
+                "ingredients": ["Chicken", "Butter", "Onion", "Tomato", "Ginger", "Garlic", "Kashmiri chili powder", "Garam masala", "Kasuri methi", "Heavy cream"],
+                "steps": [
+                    "Marinate the chicken with yogurt and spices.",
+                    "Grill the chicken until cooked.",
+                    "Prepare the sauce by sautéing onions, ginger, and garlic. Add tomatoes and cook until softened.",
+                    "Blend the tomato mixture and strain it to make a smooth sauce.",
+                    "Add butter and spices to the sauce and cook until fragrant.",
+                    "Add the grilled chicken to the sauce and simmer for a few minutes.",
+                    "Stir in heavy cream and kasuri methi and serve hot."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Rogan Josh",
+                "ingredients": ["Lamb", "Onion", "Tomato", "Ginger", "Garlic", "Green chili", "Cumin seeds", "Cinnamon", "Cardamom", "Cloves", "Kashmiri chili powder", "Yogurt"],
+                "steps": [
+                    "Marinate the lamb with yogurt and spices.",
+                    "Sauté onions, ginger, and garlic in a pan. Add tomatoes and cook until softened.",
+                    "Add spices and lamb to the pan and cook until browned.",
+                    "Add water and bring to a boil. Reduce heat and simmer until the lamb is tender.",
+                    "Serve hot with rice or naan bread."
+                ],
+                "rating": 4
+            },
+            {
+                "name": "Samosas",
+                "ingredients": ["Potato", "Peas", "Onion", "Green chili", "Ginger", "Cumin seeds", "Coriander powder", "Garam masala", "Turmeric powder", "Salt", "Pastry dough"],
+                "steps": [
+                    "Boil and mash the potatoes.",
+                    "Sauté onion, ginger, and green chili in a pan. Add peas and cook until softened.",
+                    "Add spices and mashed potatoes to the pan and cook for a few minutes.",
+                    "Cut the pastry dough into triangles.",
+                    "Place a spoonful of filling in the center of each triangle and fold the edges to form a triangle.",
+                    "Deep fry the samosas until golden brown and serve hot with chutney."
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    
+
+    {
+        "id": 4,
+        "chefName": "Ritu Dalmia",
+        "img": "https://www.nuoveradici.world/wp-content/uploads/2019/05/Ritu-Dalmia-mezzo-busto-low-2.jpg",
+        "bio": "An Indian celebrity chef, restaurateur and television personality.",
+        "experience": 25,
+        "like": 650,
+        "number": 30,
+        "recipe": [
+          {
+            "name": "Paneer Makhani",
+            "ingredients": [
+              "Paneer",
+              "Tomatoes",
+              "Butter",
+              "Cream",
+              "Cashews",
+              "Spices"
+            ],
+            "steps": [
+              "Heat butter in a pan and sauté onions until golden brown.",
+              "Add ginger-garlic paste and cook for a minute.",
+              "Add tomato puree and cook until oil separates from the mixture.",
+              "Add cashew paste, red chili powder, and garam masala and cook for a minute.",
+              "Add paneer and cook for 2-3 minutes.",
+              "Add cream and kasuri methi and cook for a minute.",
+              "Garnish with coriander leaves and serve hot."
+            ],
+            "rating": 4.5
+          },
+          {
+            "name": "Baingan Bharta",
+            "ingredients": [
+              "Eggplants",
+              "Onions",
+              "Tomatoes",
+              "Ginger",
+              "Garlic",
+              "Green Chillies",
+              "Spices"
+            ],
+            "steps": [
+              "Roast eggplants on a flame until charred and cooked from inside.",
+              "Remove the skin and mash the eggplants.",
+              "Heat oil in a pan and sauté onions until golden brown.",
+              "Add ginger, garlic, and green chilies and sauté for a minute.",
+              "Add tomatoes and cook until the mixture becomes soft.",
+              "Add mashed eggplants, red chili powder, and garam masala and cook for a few minutes.",
+              "Garnish with coriander leaves and serve hot with roti or rice."
+            ],
+            "rating": 4.2
+          },
+          {
+            "name": "Kadhi Pakora",
+            "ingredients": [
+              "Yogurt",
+              "Besan",
+              "Onions",
+              "Fenugreek Seeds",
+              "Spices"
+            ],
+            "steps": [
+              "Mix yogurt, besan, salt, and water in a bowl to form a smooth batter.",
+              "Heat oil in a pan and fry pakoras made of besan and onions until golden brown.",
+              "Add fenugreek seeds, cumin seeds, and asafoetida and sauté for a minute.",
+              "Add the yogurt-besan mixture and cook on low heat until it thickens.",
+              "Add fried pakoras and cook for a few minutes.",
+              "Garnish with coriander leaves and serve hot with rice or roti."
+            ],
+            "rating": 4.4
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "chefName": "Madhur Jaffrey",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA1MjUzNDkxM15BMl5BanBnXkFtZTcwNTIzMzExOA@@._V1_.jpg",
+        "bio": "Madhur Jaffrey is an Indian actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western world and has written over 30 cookbooks.",
+        "experience": 50,
+        "like": 900,
+        "number": 40,
+        "recipe": [
+            {
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Lemon juice",
+                    "Garlic",
+                    "Ginger",
+                    "Turmeric",
+                    "Garam masala",
+                    "Paprika",
+                    "Tomatoes",
+                    "Cream",
+                    "Cilantro"
+                ],
+                "steps": [
+                    "Marinate chicken in yogurt, lemon juice, garlic, ginger, turmeric, garam masala, and paprika for at least 1 hour.",
+                    "Grill the chicken until cooked through.",
+                    "In a separate pan, sauté onions and spices until fragrant.",
+                    "Add in chopped tomatoes and cook until softened.",
+                    "Add in the grilled chicken and cream.",
+                    "Simmer until the chicken is coated in the sauce.",
+                    "Garnish with cilantro and serve."
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Baingan Bharta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Tomato",
+                    "Green chili",
+                    "Ginger",
+                    "Cumin",
+                    "Turmeric",
+                    "Coriander",
+                    "Garam masala",
+                    "Cilantro"
+                ],
+                "steps": [
+                    "Char the eggplant over an open flame until the skin is blackened and the flesh is soft.",
+                    "Peel the skin off the eggplant and chop the flesh.",
+                    "In a separate pan, sauté onions, ginger, and green chili until softened.",
+                    "Add in chopped tomatoes and spices and cook until softened.",
+                    "Add in the chopped eggplant and cook until everything is combined.",
+                    "Garnish with cilantro and serve."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Chana Masala",
+                "ingredients": [
+                    "Chickpeas",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Cumin",
+                    "Coriander",
+                    "Garam masala",
+                    "Turmeric",
+                    "Cilantro"
+                ],
+                "steps": [
+                    "In a separate pan, sauté onions, ginger, and garlic until softened.",
+                    "Add in chopped tomatoes and spices and cook until softened.",
+                    "Add in the chickpeas and cook until everything is combined.",
+                    "Garnish with cilantro and serve."
+                ],
+                "rating": 4.2
+            }
+        ]
+    },
+    
+    {
+        "id": 6,
+        "chefName": "Madhur Jaffrey",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA1MjUzNDkxM15BMl5BanBnXkFtZTcwNTIzMzExOA@@._V1_.jpg",
+        "bio": "Madhur Jaffrey is an Indian actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western world and has written over 30 cookbooks.",
+        "experience": 50,
+        "like": 900,
+        "number": 40,
+        "recipe": [
+            {
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Lemon juice",
+                    "Garlic",
+                    "Ginger",
+                    "Turmeric",
+                    "Garam masala",
+                    "Paprika",
+                    "Tomatoes",
+                    "Cream",
+                    "Cilantro"
+                ],
+                "steps": [
+                    "Marinate chicken in yogurt, lemon juice, garlic, ginger, turmeric, garam masala, and paprika for at least 1 hour.",
+                    "Grill the chicken until cooked through.",
+                    "In a separate pan, sauté onions and spices until fragrant.",
+                    "Add in chopped tomatoes and cook until softened.",
+                    "Add in the grilled chicken and cream.",
+                    "Simmer until the chicken is coated in the sauce.",
+                    "Garnish with cilantro and serve."
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Baingan Bharta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Tomato",
+                    "Green chili",
+                    "Ginger",
+                    "Cumin",
+                    "Turmeric",
+                    "Coriander",
+                    "Garam masala",
+                    "Cilantro"
+                ],
+                "steps": [
+                    "Char the eggplant over an open flame until the skin is blackened and the flesh is soft.",
+                    "Peel the skin off the eggplant and chop the flesh.",
+                    "In a separate pan, sauté onions, ginger, and green chili until softened.",
+                    "Add in chopped tomatoes and spices and cook until softened.",
+                    "Add in the chopped eggplant and cook until everything is combined.",
+                    "Garnish with cilantro and serve."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Chana Masala",
+                "ingredients": [
+                    "Chickpeas",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Cumin",
+                    "Coriander",
+                    "Garam masala",
+                    "Turmeric",
+                    "Cilantro"
+                ],
+                "steps": [
+                    "In a separate pan, sauté onions, ginger, and garlic until softened.",
+                    "Add in chopped tomatoes and spices and cook until softened.",
+                    "Add in the chickpeas and cook until everything is combined.",
+                    "Garnish with cilantro and serve."
+                ],
+                "rating": 4.2
+            }
+        ]
+    }
+    
+]
